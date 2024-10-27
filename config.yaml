@@ -1,0 +1,121 @@
+LISTING_EXAMPLES:
+- "Neighborhood: Potrero Hill
+  Price: $1,000,000
+  Bedrooms: 2
+  Bathrooms: 1
+  House Size: 1,000 sqft
+  Property Description: This beautiful North Slope condominium offers the ultimate in indoor/outdoor living! Located on a tranquil, tree-lined cul-de-sac, this 2-bedroom home has a comfortable deck with spectacular views of the downtown skyline. The open plan living room and dining area opens onto an expansive and very private patio wonderfully suited for entertaining on Potrero`s famously warm evenings. Inside, this beautiful flat boasts a spacious living room and dining area with wood floors and expansive windows. The open and efficient kitchen has ample cabinetry and the condominium offers the convenience of an in-unit washer and dryer. The expansive master bedroom has a cozy seating area and offers views of the Bay Bridge. This lovely unit is completed by a second bedroom and an attractively updated tiled bathroom with marble vanity. Very convenient to the best Potrero Hill shops and restaurants, Mission Bay campus, Caltrain and I-280, this location offers the perfect urban oasis near all the desired amenities.
+  Neighborhood Description: Potrero Hill is a vibrant and rapidly developing neighborhood in San Francisco, known for its stunning views of the city skyline and the bay. If you're looking to buy a home, Potrero Hill offers a mix of historic buildings, modern condos, and trendy lofts. While housing prices can be on the higher side, the neighborhood's proximity to popular attractions, vibrant atmosphere, and stunning views make it a desirable place to live. With its growing popularity, Potrero Hill offers a unique opportunity to be part of a thriving and dynamic community.
+  "
+- "Neighborhood: Pacific Heights
+  Price: $2,500,000
+  Bedrooms: 4
+  Bathrooms: 3
+  House Size: 2,000 sqft
+  Property Description: This stunning Pacific Heights home offers a luxurious and spacious living experience in one of San Francisco's most prestigious neighborhoods. Located on a quiet tree-lined street, this 4-bedroom, 3-bathroom house boasts a grand entrance with soaring ceilings and an abundance of natural light. The open plan living and dining area features beautiful hardwood floors and a cozy fireplace, perfect for entertaining. The gourmet kitchen is equipped with high-end appliances, ample storage, and a large center island, making it a chef's dream. The expansive master suite offers a peaceful retreat with a sitting area, walk-in closet, and a spa-like en-suite bathroom with a double vanity and soaking tub. The other three bedrooms offer plenty of space and natural light, making them ideal for a growing family or guests. Additional features include a home office, a spacious laundry room, and a private backyard with a patio and lush landscaping. Located in the heart of Pacific Heights, this home is just steps away from the neighborhood's upscale shops, restaurants, and amenities. With its prime location, luxurious features, and elegant design, this is a rare opportunity to own a piece of Pacific Heights paradise.
+  Neighborhood Description: Pacific Heights is an affluent and prestigious neighborhood in San Francisco, known for its elegant mansions, lush gardens, and breathtaking views of the city and the bay. If you're looking to buy a home, Pacific Heights offers some of the most luxurious and sought-after properties in the city. While housing prices are among the highest in San Francisco, the neighborhood's exclusive location, top-rated schools, and upscale amenities make it a highly desirable choice for those seeking a luxurious and refined lifestyle.
+  "
+
+TEMPERATURE: 1.1
+
+PROPERTY_TYPES:
+  - House
+  - Apartment
+  - Condo
+  - TIC
+
+NEIGHBORHOODS:
+  - Mission District
+  - North Beach
+  - Potrero Hill
+  - Marina District
+  - Dogpatch
+  - SOMA
+  - Chinatown
+  - Castro
+  - Pacific Heights
+  - Noe Valley
+  - Inner Sunset
+  - Outer Sunset
+  - Inner Richmond
+  - Outer Richmond
+
+PRICE_MIN: 400000
+PRICE_MAX: 3000000
+
+BEDROOMS_MIN: 0
+BEDROOMS_MAX: 5
+
+BATHROOMS_MIN: 1
+BATHROOMS_MAX: 3
+
+HOUSE_SIZE_MIN: 500
+HOUSE_SIZE_MAX: 3000
+
+EXPENSIVE_NEIGHBORHOODS:
+  - Marina District
+  - Pacific Heights
+  - Inner Sunset
+  - Outer Sunset
+  - Inner Richmond
+  - Outer Richmond
+
+FEATURES:
+  - convenient for transport
+  - convenient for freeway access
+  - good schools
+  - local resturaunts and bars
+  - quiet and tranquil
+  - remodelled
+  - energy efficient
+  - parking
+  - home office
+  - open plan
+  - hardwood floors
+  - historic
+  - new construction
+  - great views
+  - private yard
+  - shared yard
+  - updated kitchen
+  - updated bathrooms
+  - freshly painted
+  - new windows
+  - new doors
+  - guest room
+
+NEIGHBORHOOD_DESCRIPTIONS:
+  Potrero Hill: Potrero Hill is a vibrant and rapidly developing neighborhood in San Francisco, known for its stunning views of the city skyline and the bay. If you're looking to buy a home, Potrero Hill offers a mix of historic buildings, modern condos, and trendy lofts. While housing prices can be on the higher side, the neighborhood's proximity to popular attractions, vibrant atmosphere, and stunning views make it a desirable place to live. With its growing popularity, Potrero Hill offers a unique opportunity to be part of a thriving and dynamic community.
+  Mission District: The Mission District is a vibrant and culturally rich neighborhood in San Francisco, known for its diverse community and lively atmosphere. If you're looking to buy a home, the Mission offers a variety of options, from historic Victorians to modern condos. While housing prices can be competitive, the Mission's unique character, strong sense of community, and proximity to popular attractions make it a desirable place to live. With its vibrant murals, delicious Mexican food, and thriving arts scene, the Mission provides a truly authentic and exciting San Francisco experience.
+  North Beach: North Beach is a historic Italian neighborhood in San Francisco, known for its charming cobblestone streets, quaint cafes, and authentic Italian cuisine. If you're looking to buy a home, North Beach offers a unique and nostalgic experience. With its historic architecture, vibrant atmosphere, and proximity to popular attractions, North Beach is a highly sought-after neighborhood. While housing prices can be competitive, owning a home in North Beach provides a truly special and authentic San Francisco living experience.
+  Marina District: The Marina District is a trendy and upscale neighborhood in San Francisco, known for its stunning waterfront views, upscale shops, and vibrant nightlife. If you're looking to buy a home, the Marina offers a variety of options, from spacious condos with bay views to elegant historic homes. While housing prices can be high, the Marina's prime location, proximity to popular attractions, and luxurious amenities make it a desirable place to live.
+  Dogpatch: Dogpatch is a rapidly developing neighborhood in San Francisco, known for its industrial past and recent revitalization. If you're looking to buy a home, Dogpatch offers a unique opportunity to be part of a transforming community. With its mix of historic buildings and modern developments, the neighborhood provides a variety of housing options. While prices may be on the rise due to its popularity, Dogpatch offers a vibrant and exciting atmosphere with trendy breweries, parks, and easy access to the city center.
+  SOMA: SOMA, or South of Market, is a rapidly evolving neighborhood in San Francisco, known for its blend of historic buildings and modern architecture. If you're looking to buy a home, SOMA offers a variety of options, from renovated historic lofts to modern high-rise condos. With its proximity to tech companies, cultural institutions, and transportation options, SOMA provides a convenient and dynamic lifestyle.
+  Chinatown: Chinatown is a vibrant and historic neighborhood in San Francisco, known for its rich culture and diverse community. While housing prices can be competitive, buying a home in Chinatown offers the unique opportunity to live in a culturally rich and vibrant neighborhood. You'll be surrounded by traditional shops, markets, and temples, and enjoy easy access to a wide range of authentic Chinese cuisine. With its strong sense of community and proximity to other popular neighborhoods, Chinatown provides a unique and rewarding living experience.
+  Castro: The Castro is a vibrant and historic neighborhood in San Francisco, known for its inclusive community and vibrant atmosphere. If you're looking to buy a home, the Castro offers a mix of charming Victorian houses and modern condos. While housing prices can be on the higher side, you'll be investing in a neighborhood with a strong sense of community, excellent schools, and easy access to public transportation. With its diverse shops, restaurants, and cultural events, the Castro provides a vibrant and exciting lifestyle.
+  Pacific Heights: Pacific Heights is an affluent and prestigious neighborhood in San Francisco, known for its elegant mansions, lush gardens, and breathtaking views of the city and the bay. If you're looking to buy a home, Pacific Heights offers some of the most luxurious and sought-after properties in the city. While housing prices are among the highest in San Francisco, the neighborhood's exclusive location, top-rated schools, and upscale amenities make it a highly desirable choice for those seeking a luxurious and refined lifestyle.
+  Noe Valley: Noe Valley is a charming and family-friendly neighborhood in San Francisco, known for its tree-lined streets, Victorian cottages, and vibrant community. If you're looking to buy a home, Noe Valley offers a peaceful and idyllic setting, with excellent schools, parks, and amenities. While housing prices can be competitive, the neighborhood's strong sense of community, proximity to popular attractions, and beautiful surroundings make it a highly desirable choice for those seeking a family-friendly and welcoming atmosphere.
+  Inner Sunset: The Inner Sunset is a charming and family-friendly neighborhood in San Francisco, known for its tree-lined streets, Victorian cottages, and vibrant community. If you're looking to buy a home, the Inner Sunset offers a peaceful and idyllic setting, with excellent schools, parks, and amenities. While housing prices can be competitive, the neighborhood's strong sense of community, proximity to popular attractions, and beautiful surroundings make it a highly desirable choice for those seeking a family-friendly and welcoming atmosphere.
+  Outer Sunset: The Outer Sunset is a tranquil and family-friendly neighborhood in San Francisco, known for its stunning ocean views, beautiful parks, and relaxed atmosphere. If you're looking to buy a home, the Outer Sunset offers a peaceful and idyllic setting, with a variety of housing options, including Victorian cottages, modern condos, and single-family homes. While housing prices are generally lower than in other parts of San Francisco, the Outer Sunset's proximity to the beach, excellent schools, and strong sense of community make it a highly desirable choice for those seeking a peaceful and coastal lifestyle.
+  Inner Richmond: The Inner Richmond is a diverse and vibrant neighborhood in San Francisco, known for its charming Victorian homes, bustling shops, and delicious restaurants. If you're looking to buy a home, the Inner Richmond offers a variety of options, from historic Victorians to modern condos. While housing prices can be competitive, the neighborhood's strong sense of community, proximity to Golden Gate Park, and easy access to public transportation make it a highly desirable choice. With its diverse population and vibrant atmosphere, the Inner Richmond provides a unique and exciting living experience.
+  Outer Richmond: The Outer Richmond is a peaceful and family-friendly neighborhood in San Francisco, known for its beautiful parks, stunning ocean views, and relaxed atmosphere. If you're looking to buy a home, the Outer Richmond offers a variety of options, including Victorian cottages, modern condos, and single-family homes. While housing prices are generally lower than in other parts of San Francisco, the Outer Richmond's proximity to the beach, excellent schools, and strong sense of community make it a highly desirable choice for those seeking a peaceful and coastal lifestyle.
+
+NUMBER_LISTINGS: 5
+
+ATTRIBUTE_QUESTIONS:
+  - How big do you want your house to be?
+  - What is your maximum budget?
+  - What are 3 most important things for you in choosing this property?
+  - Which amenities would you like?
+  - Which transportation options are important to you?
+  - How urban do you want your neighborhood to be?
+  - Do you have specific neighborhoods in mind?
+
+ATTRIBUTE_ANSWERS:
+  - About 1500 sqft. with a minimum of 2 bedrooms and 2 bathrooms
+  - I don't have a budget in mind right now
+  - A quiet neighborhood, good local schools, and convenient shopping options.
+  - A backyard for gardening, a home office and a large remodelled kitchen for entertaining
+  - Easy access to a reliable bus line, proximity to a major highway, and bike-friendly roads.
+  - A balance between suburban tranquility and access to urban amenities like restaurants and theaters
+  - Noe Valley and Potrero Hill

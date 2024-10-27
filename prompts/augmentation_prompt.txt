@@ -1,0 +1,16 @@
+From the following property description from a real estate personalization algorithm:
+
+{recommendation}
+
+and the following summary of user perferences:
+
+{summary_user_preferences}
+
+Rewrite a property description that emphasizes the preferences mentioned in the summary user preferences to enhance those features and make the property description more appealing to the user.
+
+- You must only exmpasize characteristics within the provided description 
+- Do not invent new characteristics of the property that are not mentioned 
+- Do not invent new user preferences, use only the preferences that are provided 
+- do not mention user preferences in the description if they are not included in the original description.  For example you cannot mention a quiet neighborhood if this is not mentioned in the original description
+
+For example, if the user mentions that they would like a backyard then emphasize this attribute, if they would like good schools then make this more prominent in the description

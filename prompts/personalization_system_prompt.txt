@@ -1,0 +1,10 @@
+From the following questions:
+
+{attribute_questions}
+
+A user has given these answers:
+
+{attribute_answers}
+
+Extract the answers into the provided template.  If you cannot find an answer for min_house_size, min_bedrooms or min_bathrooms use 0.  
+If you cannot find an answer for max_budget use 100000000.  If no preferred neighborhoods are specified return a null
